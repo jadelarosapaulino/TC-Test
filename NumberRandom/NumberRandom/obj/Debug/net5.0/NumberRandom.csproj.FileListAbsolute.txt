@@ -1,0 +1,16 @@
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.exe
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.deps.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.runtimeconfig.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.runtimeconfig.dev.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\bin\Debug\net5.0\NumberRandom.pdb
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.csproj.AssemblyReference.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.AssemblyInfoInputs.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.AssemblyInfo.cs
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.csproj.CoreCompileInputs.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\refint\NumberRandom.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.pdb
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\NumberRandom.genruntimeconfig.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\NumberRandom\NumberRandom\obj\Debug\net5.0\ref\NumberRandom.dll

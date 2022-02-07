@@ -1,0 +1,16 @@
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.exe
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.deps.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.runtimeconfig.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.runtimeconfig.dev.json
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\bin\Debug\net5.0\DesgloseBilletes.pdb
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.csproj.AssemblyReference.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.AssemblyInfoInputs.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.AssemblyInfo.cs
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.csproj.CoreCompileInputs.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\refint\DesgloseBilletes.dll
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.pdb
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\DesgloseBilletes.genruntimeconfig.cache
+C:\Users\jadel\Documents\Proyectos\PruebasTripleCyber\DesgloseBilletes\DesgloseBilletes\obj\Debug\net5.0\ref\DesgloseBilletes.dll
